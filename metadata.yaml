@@ -1,0 +1,25 @@
+_repo: Serious-Hours-of-a-Young-Lady_6583
+creator:
+  author:
+    agent_name: Sainte-Foi, Charles
+    alias: Sainte-Foy, Charles
+    birthdate: 1806
+    deathdate: 1861
+    gutenberg_agent_id: '2098'
+    url: http://www.gutenberg.org/2009/agents/2098
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life'
+- !lcc 'BV'
+- !lcsh 'Young women -- Conduct of life'
+title: Serious Hours of a Young Lady
+url: http://www.gutenberg.org/ebooks/6583
